@@ -8833,6 +8833,80 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1536190924152484547, guid: c1cb9d3f28f6cb941a51ae103cb44b90, type: 3}
   m_PrefabInstance: {fileID: 146085331}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &146210149
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1276578257}
+    m_Modifications:
+    - target: {fileID: 850090352428292972, guid: 510f46f3a0879db4fb039379b00019ac, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 850090352428292972, guid: 510f46f3a0879db4fb039379b00019ac, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 6.0631
+      objectReference: {fileID: 0}
+    - target: {fileID: 850090352428292972, guid: 510f46f3a0879db4fb039379b00019ac, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10.283
+      objectReference: {fileID: 0}
+    - target: {fileID: 850090352428292972, guid: 510f46f3a0879db4fb039379b00019ac, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.324
+      objectReference: {fileID: 0}
+    - target: {fileID: 850090352428292972, guid: 510f46f3a0879db4fb039379b00019ac, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.143
+      objectReference: {fileID: 0}
+    - target: {fileID: 850090352428292972, guid: 510f46f3a0879db4fb039379b00019ac, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 850090352428292972, guid: 510f46f3a0879db4fb039379b00019ac, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 850090352428292972, guid: 510f46f3a0879db4fb039379b00019ac, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 850090352428292972, guid: 510f46f3a0879db4fb039379b00019ac, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 850090352428292972, guid: 510f46f3a0879db4fb039379b00019ac, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 850090352428292972, guid: 510f46f3a0879db4fb039379b00019ac, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 850090352428292972, guid: 510f46f3a0879db4fb039379b00019ac, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1683714510646320208, guid: 510f46f3a0879db4fb039379b00019ac, type: 3}
+      propertyPath: m_Name
+      value: Stone_Walkway_03_Prefab (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6689337075266343800, guid: 510f46f3a0879db4fb039379b00019ac, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d586832ebe71dae4ebf3401d794b822f, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 510f46f3a0879db4fb039379b00019ac, type: 3}
+--- !u!4 &146210150 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 850090352428292972, guid: 510f46f3a0879db4fb039379b00019ac, type: 3}
+  m_PrefabInstance: {fileID: 146210149}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &151025515
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15639,6 +15713,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tatami_200x100_01_Prefab (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 8089184498324695199, guid: 367e76a943c52174c9bd9e8021513dea, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d586832ebe71dae4ebf3401d794b822f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25721,6 +25799,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Stone_Walkway_03_Prefab (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6689337075266343800, guid: 510f46f3a0879db4fb039379b00019ac, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d586832ebe71dae4ebf3401d794b822f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -28567,6 +28649,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2142622098}
     m_Modifications:
+    - target: {fileID: 3835470478882639383, guid: 63789d92d2a79ee4ead39172f6fc43de, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d586832ebe71dae4ebf3401d794b822f, type: 2}
     - target: {fileID: 8157330223858335100, guid: 63789d92d2a79ee4ead39172f6fc43de, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -29184,6 +29270,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Stone_Walkway_03_Prefab (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 6689337075266343800, guid: 510f46f3a0879db4fb039379b00019ac, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fe6dde950754b08419e5778c6a74fc30, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -31590,6 +31680,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall_300x200_01_Mesh
       objectReference: {fileID: 0}
+    - target: {fileID: 2565951967209911376, guid: 8bd7c3ae3c8cabe40acf50d65917e2f4, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d586832ebe71dae4ebf3401d794b822f, type: 2}
     - target: {fileID: 7725073407020189089, guid: 8bd7c3ae3c8cabe40acf50d65917e2f4, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -50805,6 +50899,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tatami_200x100_01_Prefab (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 8089184498324695199, guid: 367e76a943c52174c9bd9e8021513dea, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d586832ebe71dae4ebf3401d794b822f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -54227,6 +54325,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2142622098}
     m_Modifications:
+    - target: {fileID: 2694798111310875489, guid: ffa81299283cb784bae19fbd14c5329f, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d586832ebe71dae4ebf3401d794b822f, type: 2}
     - target: {fileID: 3883452966440045442, guid: ffa81299283cb784bae19fbd14c5329f, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -68997,6 +69099,7 @@ Transform:
   - {fileID: 1121691017}
   - {fileID: 1670336044}
   - {fileID: 448743529}
+  - {fileID: 146210150}
   - {fileID: 846361186}
   - {fileID: 1832979776}
   - {fileID: 1627342223}
